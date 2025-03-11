@@ -3,3 +3,7 @@ hola
 segundo commit
 
 3er commit con git gui&
+
+git checkout --> Remove changes to previous stages (last commit) 
+
+git clean -xdf --> removes the files that are not removable with git checkout
